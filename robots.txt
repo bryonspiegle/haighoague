@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oocevaigai.mariojp.com.br/sitemap.xml
